@@ -4,18 +4,18 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Full-stack developer, UI designer and data-science enthusiast.
+- 🤔 &nbsp; Full-stack developer, UI designer and data-science enthusiast. 
 - 💼 &nbsp; Working as a freelancer and previously worked at CGI.
 - 🌱 &nbsp; Learning more about backend web development using ExpressJS, NodeJS and Postgres.
 - ✍️ &nbsp; Pursuing data-science and lawn-tennis as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
+💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 
-- 🌐 &nbsp;
+🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -23,16 +23,16 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   
-- 🛢 &nbsp;
+🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![ExpressJS](https://img.shields.io/badge/-ExpressJs-333333?style=flat&logo=express)
   
-- ⚙️ &nbsp;
+⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   
-- 🖥 &nbsp;
+🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![AdobeXD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-xd)
   ![Sketch](https://img.shields.io/badge/-sketch-333333?style=flat&logo=sketch)
