@@ -5,7 +5,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Full-stack developer, UI designer and data-science enthusiast.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
 - 💼 &nbsp; Working as a freelancer and previously worked at CGI.
 - 🌱 &nbsp; Learning more about backend web development using ExpressJS, NodeJS and Postgres.
 - ✍️ &nbsp; Pursuing data-science and lawn-tennis as hobbies/side hustles.
