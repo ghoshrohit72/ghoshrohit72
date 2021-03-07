@@ -25,7 +25,7 @@
   
 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgresSQL](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL)
   ![ExpressJS](https://img.shields.io/badge/-ExpressJs-333333?style=flat&logo=express)
   
 ⚙️ &nbsp;
